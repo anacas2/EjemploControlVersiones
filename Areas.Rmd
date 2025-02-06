@@ -21,3 +21,9 @@ Area <- pi*r^2
 Lado<-3
 AreaCuadrado<- Lado^2
 ```
+#Área del triangulo
+```{r}
+Lado<-4
+Altura<-3
+AreaTriangulo<-(Lado*Altura)/2
+
