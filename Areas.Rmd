@@ -26,4 +26,9 @@ AreaCuadrado<- Lado^2
 Lado<-4
 Altura<-3
 AreaTriangulo<-(Lado*Altura)/2
-
+```
+#Área del rectángulo
+```{r}
+Lado<-5
+Altura<-2
+AreaRectangulo<- Lado*Altura
