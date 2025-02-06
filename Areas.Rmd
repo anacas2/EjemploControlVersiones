@@ -32,3 +32,10 @@ AreaTriangulo<-(Lado*Altura)/2
 Lado<-5
 Altura<-2
 AreaRectangulo<- Lado*Altura
+```
+#Área del trapecio
+```{r}
+B<-8
+b<-5
+H<-4
+Areatrapecio<-((B+b)+H)/2
